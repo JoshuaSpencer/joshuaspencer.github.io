@@ -1,0 +1,85 @@
+body{
+	background-image:url("https://i.ytimg.com/vi/LwR2qVJof14/hqdefault.jpg");
+}
+header, section, footer{
+	color:white;
+}
+#JoshuaPic{
+	position:absolute;
+	left:900px;
+	-ms-transform:rotate(5deg);
+	-webkit-transform:rotate(5deg);
+	transform:rotate(5deg);
+	border-bottom-width:50px;
+	border-top-width:10px;
+	border-left-width:10px;
+	border-right-width:10px;
+	border-style:solid;
+	border-color:white;
+	z-index:1;
+}
+
+#pic1{
+	-ms-transform:rotate(5deg);
+	-webkit-transform:rotate(5deg);
+	transform:rotate(5deg);
+	position:absolute;
+	left:1042px;
+	top:290px;
+	z-index:2;
+	color:black;
+	font-family:'Gloria Hallelujah', cursive;
+}
+#div2{
+	padding-left:15px;
+	padding-right:15px;
+	position:relative;
+	left:200px;
+	background-image:url("https://images.freecreatives.com/wp-content/uploads/2015/04/natural-paper-background-texture-hd-5a0b.jpg");
+	width:625px;
+	z-index:2;
+}
+#par{
+	color:black;
+	font-family:'Gloria Hallelujah', cursive;
+}
+#navi{
+	background-color:black;
+	width:130px;
+}
+a{
+	text-decoration:none;
+	color:white;
+}
+a:link{
+	text-decoration:none;
+	color:white;
+}
+a:visited{
+	text-decoration:none;
+	color:white;
+}
+a:hover{
+	text-decoration:none;
+	color:white;
+}
+a:active{
+	text-decoration:none;
+	color:#80aaff;
+}
+#l1:link{
+	text-decoration:underline;
+	color:#80aaff;
+}
+#l1:visited{
+	text-decoration:underline;
+	color:#80aaff;
+}
+#l1:hover{
+	text-decoration:underline;
+	color:#80aaff;
+}
+#l1:active{
+	text-decoration:underline;
+	color:#80aaff;
+}
