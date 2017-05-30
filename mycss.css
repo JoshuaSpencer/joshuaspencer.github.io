@@ -6,14 +6,14 @@ header, section, footer{
 }
 #JoshuaPic{
 	position:absolute;
-	left:5625.0%;
+	left:58%;
 	-ms-transform:rotate(5deg);
 	-webkit-transform:rotate(5deg);
 	transform:rotate(5deg);
-	border-bottom-width:312.5%;
-	border-top-width:75.0%;
-	border-left-width:75.0%;
-	border-right-width:75.0%;
+	border-bottom-width:40px;
+	border-top-width:10px;
+	border-left-width:10px;
+	border-right-width:10px;
 	border-style:solid;
 	border-color:white;
 	z-index:1;
@@ -23,19 +23,19 @@ header, section, footer{
 	-webkit-transform:rotate(5deg);
 	transform:rotate(5deg);
 	position:absolute;
-	left:6512.5%;
-	top:1812.5%;
+	left:70%;
+	top:45%;
 	z-index:2;
 	color:black;
 	font-family:'Gloria Hallelujah', cursive;
 }
 #div2{
-	padding-left:93.8%;
-	padding-right:93.8%;
+	padding-left:1%;
+	padding-right:1%;
 	position:relative;
-	left:1250.0%;
+	left:15%;
 	background-image:url("https://images.freecreatives.com/wp-content/uploads/2015/04/natural-paper-background-texture-hd-5a0b.jpg");
-	width:3906.3%;
+	width:40%;
 	z-index:2;
 }
 #par{
